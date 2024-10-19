@@ -1,0 +1,25 @@
+# 1.	Write a C++ program that takes the age of a person as input and determines if they are eligible to vote. Eligibility typically begins at 18 years old.
+
+# 2.	Create a C++ program that calculates the grade of a student based on their marks. The program should take marks as input and assign a grade according to predefined criteria (e.g., A, B, C, D, F).
+
+# 3.	Develop a C++ program that calculates the Body Mass Index (BMI) of a person based on their height and weight. BMI is calculated as weight (in kilograms) divided by the square of height (in meters).
+
+4.	Write a C++ program that validates user-entered passwords based on specified criteria such as minimum length, containing numbers, special characters, etc.
+
+5.	Develop a C++ program that calculates the electricity bill based on the units consumed and the applicable tariff rates.
+
+6.	Write a C++ program that checks if a given string is a palindrome or not. A palindrome is a string that reads the same backward as forward (e.g., "radar", "madam").
+7.	C++ program that generates prime numbers within a given range using the Sieve of Eratosthenes algorithm.
+8.	Develop a C++ program that calculates the Greatest Common Divisor (GCD) of two numbers using Euclid's algorithm.
+9.	Write a C++ program that performs basic arithmetic operations (addition, subtraction, multiplication, division) based on user input.
+10.	Develop a C++ program that converts time between different formats (e.g., seconds to minutes, hours to days) based on user input.
+11.	Create a C++ program that calculates the factorial of a given number using recursion or iteration.
+12.	Develop a C++ program for a simple text-based Tic-Tac-Toe game where two players can play against each other.
+
+13.	Create a C++ program that allows users to store and recall previous results in a calculator application.
+
+14.	Write a C++ program to manage student records, including adding, deleting, and updating student information.
+15.	Write a C++ program for a quiz game where users can answer multiple-choice questions and get scored at the end.
+16.	Create a C++ program that generates random passwords of a specified length using random number generation techniques.
+
+
